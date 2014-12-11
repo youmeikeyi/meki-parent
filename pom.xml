@@ -8,7 +8,7 @@
     <artifactId>meki-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>xiaozhao-parent-pom</name>
+    <name>meki-parent-pom</name>
 
     <!-- 配置管理 -->
     <!--<scm>
@@ -206,6 +206,11 @@
                 <groupId>org.slf4j</groupId>
                 <artifactId>slf4j-log4j12</artifactId>
                 <version>1.7.7</version>
+            </dependency>
+            <dependency>
+                <groupId>commons-lang</groupId>
+                <artifactId>commons-lang</artifactId>
+                <version>2.6</version>
             </dependency>
             <dependency>
                 <groupId>commons-logging</groupId>
