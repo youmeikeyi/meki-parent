@@ -12,7 +12,7 @@
 
     <!-- 配置管理 -->
     <!--<scm>
-        <connection>
+        <connection>git
             scm:svn:http://{svn.url}/trunk/jingwei-root-pom
         </connection>
         <developerConnection>
